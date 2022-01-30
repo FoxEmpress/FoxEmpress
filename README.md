@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @FoxEmpress
+- 👀 I’m interested in NSFW Game development
+- 🌱 I’m currently learning C++
+- 💞️ I’m looking to collaborate on experimental NSFW games.
+- 📫 How to reach me: little.fox.empress@gmail.com
